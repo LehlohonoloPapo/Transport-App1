@@ -1,0 +1,79 @@
+<project version="4">
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/JavaScriptLanguage/helpers/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/Anaconda3/Lib/site-packages/jupyterlab/staging/package.json" />
+      <path value="$PROJECT_DIR$/Anaconda3/Lib/site-packages/jupyterlab/static/package.json" />
+      <path value="$PROJECT_DIR$/Anaconda3/Lib/site-packages/jupyterlab/tests/mock_packages/extension/package.json" />
+      <path value="$PROJECT_DIR$/Anaconda3/Lib/site-packages/jupyterlab/tests/mock_packages/incompat/package.json" />
+      <path value="$PROJECT_DIR$/Anaconda3/Lib/site-packages/jupyterlab/tests/mock_packages/mimeextension/package.json" />
+      <path value="$PROJECT_DIR$/Anaconda3/Lib/site-packages/jupyterlab/tests/mock_packages/package/package.json" />
+      <path value="$PROJECT_DIR$/Anaconda3/Lib/site-packages/matplotlib/backends/web_backend/jquery-ui-1.12.1/package.json" />
+      <path value="$PROJECT_DIR$/Anaconda3/pkgs/jupyterlab-0.35.4-py37hf63ae98_0/Lib/site-packages/jupyterlab/staging/package.json" />
+      <path value="$PROJECT_DIR$/Anaconda3/pkgs/jupyterlab-0.35.4-py37hf63ae98_0/Lib/site-packages/jupyterlab/static/package.json" />
+      <path value="$PROJECT_DIR$/Anaconda3/pkgs/jupyterlab-0.35.4-py37hf63ae98_0/Lib/site-packages/jupyterlab/tests/mock_packages/extension/package.json" />
+      <path value="$PROJECT_DIR$/Anaconda3/pkgs/jupyterlab-0.35.4-py37hf63ae98_0/Lib/site-packages/jupyterlab/tests/mock_packages/incompat/package.json" />
+      <path value="$PROJECT_DIR$/Anaconda3/pkgs/jupyterlab-0.35.4-py37hf63ae98_0/Lib/site-packages/jupyterlab/tests/mock_packages/mimeextension/package.json" />
+      <path value="$PROJECT_DIR$/Anaconda3/pkgs/jupyterlab-0.35.4-py37hf63ae98_0/Lib/site-packages/jupyterlab/tests/mock_packages/package/package.json" />
+      <path value="$PROJECT_DIR$/Anaconda3/pkgs/jupyterlab-0.35.4-py37hf63ae98_0/share/jupyter/lab/static/package.json" />
+      <path value="$PROJECT_DIR$/Anaconda3/pkgs/matplotlib-3.0.3-py37hc8f65d3_0/Lib/site-packages/matplotlib/backends/web_backend/jquery-ui-1.12.1/package.json" />
+      <path value="$PROJECT_DIR$/Anaconda3/share/jupyter/lab/static/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/Android/Sdk/platform-tools/systrace/catapult/common/node_runner/node_runner/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/JavaScriptLanguage/helpers/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/JavaScriptLanguage/languageService/eslint/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/NodeJS/js/mocha-intellij/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/bat/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/clojure/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/coffeescript/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/cpp/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/csharp/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/css/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/docker/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/fsharp/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/git/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/go/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/groovy/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/handlebars/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/hlsl/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/html/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/ini/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/java/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/javascript/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/json/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/less/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/log/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/lua/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/make/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/markdown-basics/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/objective-c/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/perl/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/php/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/powershell/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/pug/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/python/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/r/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/razor/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/ruby/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/rust/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/scss/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/shaderlab/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/shellscript/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/sql/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/swift/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/typescript-basics/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/vb/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/xml/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Local/JetBrains/IntelliJ IDEA 2019.2/plugins/textmate/lib/bundles/yaml/package.json" />
+      <path value="$PROJECT_DIR$/AppData/Roaming/Discord/0.0.305/modules/discord_desktop_core/package.json" />
+      <path value="$PROJECT_DIR$/Downloads/opencv/sources/modules/js/test/package.json" />
+    </packageJsonPaths>
+  </component>
+</project>
